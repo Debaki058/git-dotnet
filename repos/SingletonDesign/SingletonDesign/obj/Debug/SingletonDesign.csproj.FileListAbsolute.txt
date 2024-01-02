@@ -1,0 +1,7 @@
+C:\Users\N I T R O 5\source\repos\SingletonDesign\SingletonDesign\bin\Debug\SingletonDesign.exe.config
+C:\Users\N I T R O 5\source\repos\SingletonDesign\SingletonDesign\bin\Debug\SingletonDesign.exe
+C:\Users\N I T R O 5\source\repos\SingletonDesign\SingletonDesign\bin\Debug\SingletonDesign.pdb
+C:\Users\N I T R O 5\source\repos\SingletonDesign\SingletonDesign\obj\Debug\SingletonDesign.csproj.AssemblyReference.cache
+C:\Users\N I T R O 5\source\repos\SingletonDesign\SingletonDesign\obj\Debug\SingletonDesign.csproj.CoreCompileInputs.cache
+C:\Users\N I T R O 5\source\repos\SingletonDesign\SingletonDesign\obj\Debug\SingletonDesign.exe
+C:\Users\N I T R O 5\source\repos\SingletonDesign\SingletonDesign\obj\Debug\SingletonDesign.pdb

@@ -1,0 +1,7 @@
+C:\Users\N I T R O 5\source\repos\januka\januka\bin\Debug\januka.exe.config
+C:\Users\N I T R O 5\source\repos\januka\januka\bin\Debug\januka.exe
+C:\Users\N I T R O 5\source\repos\januka\januka\bin\Debug\januka.pdb
+C:\Users\N I T R O 5\source\repos\januka\januka\obj\Debug\januka.csproj.AssemblyReference.cache
+C:\Users\N I T R O 5\source\repos\januka\januka\obj\Debug\januka.csproj.CoreCompileInputs.cache
+C:\Users\N I T R O 5\source\repos\januka\januka\obj\Debug\januka.exe
+C:\Users\N I T R O 5\source\repos\januka\januka\obj\Debug\januka.pdb

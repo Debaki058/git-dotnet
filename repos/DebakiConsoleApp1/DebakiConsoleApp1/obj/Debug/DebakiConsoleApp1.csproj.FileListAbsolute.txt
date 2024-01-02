@@ -1,0 +1,7 @@
+C:\Users\N I T R O 5\source\repos\DebakiConsoleApp1\DebakiConsoleApp1\bin\Debug\DebakiConsoleApp1.exe.config
+C:\Users\N I T R O 5\source\repos\DebakiConsoleApp1\DebakiConsoleApp1\bin\Debug\DebakiConsoleApp1.exe
+C:\Users\N I T R O 5\source\repos\DebakiConsoleApp1\DebakiConsoleApp1\bin\Debug\DebakiConsoleApp1.pdb
+C:\Users\N I T R O 5\source\repos\DebakiConsoleApp1\DebakiConsoleApp1\obj\Debug\DebakiConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\N I T R O 5\source\repos\DebakiConsoleApp1\DebakiConsoleApp1\obj\Debug\DebakiConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\N I T R O 5\source\repos\DebakiConsoleApp1\DebakiConsoleApp1\obj\Debug\DebakiConsoleApp1.exe
+C:\Users\N I T R O 5\source\repos\DebakiConsoleApp1\DebakiConsoleApp1\obj\Debug\DebakiConsoleApp1.pdb

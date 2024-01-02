@@ -1,0 +1,7 @@
+C:\Users\N I T R O 5\source\repos\GENERIC_METHODS\GENERIC_METHODS\bin\Debug\GENERIC_METHODS.exe.config
+C:\Users\N I T R O 5\source\repos\GENERIC_METHODS\GENERIC_METHODS\bin\Debug\GENERIC_METHODS.exe
+C:\Users\N I T R O 5\source\repos\GENERIC_METHODS\GENERIC_METHODS\bin\Debug\GENERIC_METHODS.pdb
+C:\Users\N I T R O 5\source\repos\GENERIC_METHODS\GENERIC_METHODS\obj\Debug\GENERIC_METHODS.csproj.AssemblyReference.cache
+C:\Users\N I T R O 5\source\repos\GENERIC_METHODS\GENERIC_METHODS\obj\Debug\GENERIC_METHODS.csproj.CoreCompileInputs.cache
+C:\Users\N I T R O 5\source\repos\GENERIC_METHODS\GENERIC_METHODS\obj\Debug\GENERIC_METHODS.exe
+C:\Users\N I T R O 5\source\repos\GENERIC_METHODS\GENERIC_METHODS\obj\Debug\GENERIC_METHODS.pdb
