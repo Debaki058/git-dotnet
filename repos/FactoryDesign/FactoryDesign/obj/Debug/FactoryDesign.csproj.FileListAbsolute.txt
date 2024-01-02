@@ -1,0 +1,7 @@
+C:\Users\N I T R O 5\source\repos\FactoryDesign\FactoryDesign\bin\Debug\FactoryDesign.exe.config
+C:\Users\N I T R O 5\source\repos\FactoryDesign\FactoryDesign\bin\Debug\FactoryDesign.exe
+C:\Users\N I T R O 5\source\repos\FactoryDesign\FactoryDesign\bin\Debug\FactoryDesign.pdb
+C:\Users\N I T R O 5\source\repos\FactoryDesign\FactoryDesign\obj\Debug\FactoryDesign.csproj.AssemblyReference.cache
+C:\Users\N I T R O 5\source\repos\FactoryDesign\FactoryDesign\obj\Debug\FactoryDesign.csproj.CoreCompileInputs.cache
+C:\Users\N I T R O 5\source\repos\FactoryDesign\FactoryDesign\obj\Debug\FactoryDesign.exe
+C:\Users\N I T R O 5\source\repos\FactoryDesign\FactoryDesign\obj\Debug\FactoryDesign.pdb
