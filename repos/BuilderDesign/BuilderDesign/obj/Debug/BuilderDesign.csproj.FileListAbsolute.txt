@@ -1,0 +1,7 @@
+C:\Users\N I T R O 5\source\repos\BuilderDesign\BuilderDesign\bin\Debug\BuilderDesign.exe.config
+C:\Users\N I T R O 5\source\repos\BuilderDesign\BuilderDesign\bin\Debug\BuilderDesign.exe
+C:\Users\N I T R O 5\source\repos\BuilderDesign\BuilderDesign\bin\Debug\BuilderDesign.pdb
+C:\Users\N I T R O 5\source\repos\BuilderDesign\BuilderDesign\obj\Debug\BuilderDesign.csproj.AssemblyReference.cache
+C:\Users\N I T R O 5\source\repos\BuilderDesign\BuilderDesign\obj\Debug\BuilderDesign.csproj.CoreCompileInputs.cache
+C:\Users\N I T R O 5\source\repos\BuilderDesign\BuilderDesign\obj\Debug\BuilderDesign.exe
+C:\Users\N I T R O 5\source\repos\BuilderDesign\BuilderDesign\obj\Debug\BuilderDesign.pdb

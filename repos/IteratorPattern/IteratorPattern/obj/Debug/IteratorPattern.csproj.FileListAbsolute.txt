@@ -1,0 +1,7 @@
+C:\Users\N I T R O 5\source\repos\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+C:\Users\N I T R O 5\source\repos\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe
+C:\Users\N I T R O 5\source\repos\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.pdb
+C:\Users\N I T R O 5\source\repos\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csproj.AssemblyReference.cache
+C:\Users\N I T R O 5\source\repos\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\N I T R O 5\source\repos\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.exe
+C:\Users\N I T R O 5\source\repos\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.pdb
