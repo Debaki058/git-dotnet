@@ -1,0 +1,29 @@
+C:\Users\97152\Desktop\C#\Inhertance\Inhertance\obj\Debug\net6.0\Inhertance.csproj.AssemblyReference.cache
+C:\Users\97152\Desktop\C#\Inhertance\Inhertance\obj\Debug\net6.0\Inhertance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97152\Desktop\C#\Inhertance\Inhertance\obj\Debug\net6.0\Inhertance.AssemblyInfoInputs.cache
+C:\Users\97152\Desktop\C#\Inhertance\Inhertance\obj\Debug\net6.0\Inhertance.AssemblyInfo.cs
+C:\Users\97152\Desktop\C#\Inhertance\Inhertance\obj\Debug\net6.0\Inhertance.csproj.CoreCompileInputs.cache
+C:\Users\97152\Desktop\C#\Inhertance\Inhertance\bin\Debug\net6.0\Inhertance.exe
+C:\Users\97152\Desktop\C#\Inhertance\Inhertance\bin\Debug\net6.0\Inhertance.deps.json
+C:\Users\97152\Desktop\C#\Inhertance\Inhertance\bin\Debug\net6.0\Inhertance.runtimeconfig.json
+C:\Users\97152\Desktop\C#\Inhertance\Inhertance\bin\Debug\net6.0\Inhertance.dll
+C:\Users\97152\Desktop\C#\Inhertance\Inhertance\bin\Debug\net6.0\Inhertance.pdb
+C:\Users\97152\Desktop\C#\Inhertance\Inhertance\obj\Debug\net6.0\Inhertance.dll
+C:\Users\97152\Desktop\C#\Inhertance\Inhertance\obj\Debug\net6.0\refint\Inhertance.dll
+C:\Users\97152\Desktop\C#\Inhertance\Inhertance\obj\Debug\net6.0\Inhertance.pdb
+C:\Users\97152\Desktop\C#\Inhertance\Inhertance\obj\Debug\net6.0\Inhertance.genruntimeconfig.cache
+C:\Users\97152\Desktop\C#\Inhertance\Inhertance\obj\Debug\net6.0\ref\Inhertance.dll
+C:\Users\N I T R O 5\Desktop\Inhertance\Inhertance\Inhertance\bin\Debug\net6.0\Inhertance.exe
+C:\Users\N I T R O 5\Desktop\Inhertance\Inhertance\Inhertance\bin\Debug\net6.0\Inhertance.deps.json
+C:\Users\N I T R O 5\Desktop\Inhertance\Inhertance\Inhertance\bin\Debug\net6.0\Inhertance.runtimeconfig.json
+C:\Users\N I T R O 5\Desktop\Inhertance\Inhertance\Inhertance\bin\Debug\net6.0\Inhertance.dll
+C:\Users\N I T R O 5\Desktop\Inhertance\Inhertance\Inhertance\bin\Debug\net6.0\Inhertance.pdb
+C:\Users\N I T R O 5\Desktop\Inhertance\Inhertance\Inhertance\obj\Debug\net6.0\Inhertance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N I T R O 5\Desktop\Inhertance\Inhertance\Inhertance\obj\Debug\net6.0\Inhertance.AssemblyInfoInputs.cache
+C:\Users\N I T R O 5\Desktop\Inhertance\Inhertance\Inhertance\obj\Debug\net6.0\Inhertance.AssemblyInfo.cs
+C:\Users\N I T R O 5\Desktop\Inhertance\Inhertance\Inhertance\obj\Debug\net6.0\Inhertance.csproj.CoreCompileInputs.cache
+C:\Users\N I T R O 5\Desktop\Inhertance\Inhertance\Inhertance\obj\Debug\net6.0\Inhertance.dll
+C:\Users\N I T R O 5\Desktop\Inhertance\Inhertance\Inhertance\obj\Debug\net6.0\refint\Inhertance.dll
+C:\Users\N I T R O 5\Desktop\Inhertance\Inhertance\Inhertance\obj\Debug\net6.0\Inhertance.pdb
+C:\Users\N I T R O 5\Desktop\Inhertance\Inhertance\Inhertance\obj\Debug\net6.0\Inhertance.genruntimeconfig.cache
+C:\Users\N I T R O 5\Desktop\Inhertance\Inhertance\Inhertance\obj\Debug\net6.0\ref\Inhertance.dll

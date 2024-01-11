@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9pxhwWPVpX9XF7YgnN/dpN/pGYnkhtojGZQnSJ8wb03KM1BxTHunKrcP0uDN8hNtU04Op6Gs5efZi+WXvLiHGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\N I T R O 5\\Desktop\\Inhertance\\Inhertance\\Inhertance\\Inhertance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\N I T R O 5\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\N I T R O 5\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\N I T R O 5\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\N I T R O 5\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
